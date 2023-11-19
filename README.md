@@ -1,7 +1,6 @@
 ## Use a Pre-trained Image Classifier to Identify Dog Breeds
 
 <b> Project Objectives:</b>
-Created By: Pranjali Singh
 
 1. Categorizing the breeds of dogs in the identified dog images.
 2. Distinguishing pet images featuring dogs from those that do not.
